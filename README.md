@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Extradct, load and transform 3 data sets and create 3 seperate data frames using python and postgresql.
+Extract, load and transform 3 data sets and create 3 seperate data frames using python and postgresql.
 
 ![ratings_query](https://user-images.githubusercontent.com/31022640/116007623-885f0100-a5c5-11eb-836e-076b9ddf3a1d.png) 
 SELECT 
@@ -15,6 +15,6 @@ We then queried the data in pgAdmin to comfirm the updated data matched the requ
 
 ![timer](https://user-images.githubusercontent.com/31022640/116007799-5a2df100-a5c6-11eb-80f7-07be3c85629f.png)
 
-And additional bit of beneficial exposure created by this assignment was on how to handle uploading large files to github.
+An additional bit of beneficial exposure created by this assignment was on how to handle uploading large files to github.
 
 ![image](https://user-images.githubusercontent.com/31022640/116007850-919c9d80-a5c6-11eb-96f7-519056f9efea.png)
